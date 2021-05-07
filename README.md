@@ -1,4 +1,4 @@
-# Sketch-Generation-with-Drawing-Process-Guided-by-Vector-Flow-and-Grayscale
+# Old_Photo_Restoration_with_Sketch_Generation
 This is the official implementation of the **AAAI 2021: AAAI Conference on Artificial Intelligence** accepted paper "**Sketch Generation with Drawing Process Guided by Vector Flow and Grayscale**".   
 Our paper's preprint version is available at arXiv now: https://arxiv.org/abs/2012.09004.   
 Our Supplementary Material (PDF) is available at Baidu Netdisk (百度网盘) https://pan.baidu.com/s/1ZZEmpuPXRNBPvG0WHbbPKA. The extraction code (提取码) is `1234`.  
